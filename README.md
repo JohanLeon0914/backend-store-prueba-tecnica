@@ -2,9 +2,9 @@
 
 Esta es una API construida como parte de una prueba técnica. La aplicación está diseñada para manejar productos y un carrito de compras, permitiendo realizar operaciones básicas como obtener productos, agregar productos al carrito, y eliminar productos del carrito.
 
-La API está desplegada en [Vercel](https://backend-store-prueba-tecnica-git-master-johanleon0914s-projects.vercel.app).
+La API está desplegada en (https://backend-store-prueba-tecnica-git-master-johanleon0914s-projects.vercel.app).
 
-Además, esta API es consumida por una aplicación frontend desplegada en [Vercel](https://frontend-store-prueba-tecnica.vercel.app).
+Además, esta API es consumida por una aplicación frontend desplegada en (https://frontend-store-prueba-tecnica.vercel.app).
 
 ## Cómo Ejecutar la API
 
