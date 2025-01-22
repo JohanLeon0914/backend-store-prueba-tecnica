@@ -10,7 +10,7 @@ Además, esta API es consumida por una aplicación frontend desplegada en (https
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-   git clone https://github.com/tu-usuario/backend-store-prueba-tecnica.git
+   git clone https://github.com/JohanLeon0914/backend-store-prueba-tecnica.git
 2. Clona este repositorio en tu máquina local:
     ```bash
    cd backend-store-prueba-tecnica
